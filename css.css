@@ -1,0 +1,168 @@
+* {
+            margin: 0;
+            padding: 0;
+
+        }
+
+        body {
+
+            background-color: rgb(2 2 37);
+            color: white;
+            font-family: 'Poppins', sans-serif;
+            font-family: 'Ubuntu', sans-serif;
+            font-weight: bold;
+        }
+
+        #left {
+            font-size: 1.5rem;
+        }
+
+        nav ul {
+            display: flex;
+            justify-content: center;
+        }
+
+        nav ul li {
+            list-style: none;
+            margin: 0px 28px;
+            /* padding: 0px 9px; */
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            /* padding: 0px 9px; */
+        }
+
+        nav ul li a:hover {
+            color: red;
+            font-size: 1.04rem;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            height: 75px;
+            background-color: #3b3b64;
+        }
+
+        #first {
+            display: flex;
+
+            justify-content: space-around;
+            margin: 123px 90px;
+            align-items: center;
+        }
+
+        #first>div {
+            width: 35%;
+        }
+
+        .leftsection {
+            /* background-color: red; */
+            font-size: 3rem;
+        }
+
+
+
+        .rightsection img {
+            width: 85%;
+        }
+
+        .name {
+            color: rgb(244, 192, 22);
+        }
+
+        #element {
+            color: rgb(244, 192, 22);
+        }
+
+        .second {
+            display: flex;
+            max-width: 75vw;
+            justify-content: center;
+            align-items: center;
+            margin: auto;
+        }
+
+
+
+
+        hr {
+            border: 0;
+            background-color: #a98ce599;
+            height: 1.2px;
+            margin: 40px 71px;
+        }
+
+
+        .clients {
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            margin: 50px 228px;
+            background-color: #ababce52;
+            padding: 14px 0px;
+        }
+
+
+        .black {
+            color: white;
+            font-weight: bolder;
+        }
+
+        .d-block w-100 img {
+
+            height: 70%;
+        }
+
+        .carousel-inner {
+            height: 12%;
+        }
+
+        .clients img {
+            height: 125px;
+        }
+
+        .card-body {
+            background-color: rgb(2 2 37);  
+        }
+
+        .yell {
+            color: rgb(102, 129, 235);
+        }
+
+        .rere {
+            margin: 48px 0px;
+        }
+
+        #third {
+            margin: 106px 91px;
+            padding: 0px 16px;
+        }
+
+        footer {
+            background-color: rgb(40, 37, 37);
+            height: 240px;
+
+        }
+        
+
+        .logo {
+            display: flex;
+            flex-direction: column;
+            margin: 0px 123px;
+
+        }
+
+        .logo1 img {
+
+            height: 40px;
+            width: 40px;
+
+        }
+
+        .logo1 {
+            margin: 0px 28px;
+        }
